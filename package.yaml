@@ -1,10 +1,10 @@
 name:                convert2png
 version:             0.1.0.0
-github:              "githubuser/convert2png"
-license:             BSD3
-author:              "Author name here"
+github:              "meloidae/convert2png"
+license:             MIT
+author:              "meloidae"
 maintainer:          "example@example.com"
-copyright:           "2021 Author name here"
+copyright:           "2021 meloidae"
 
 extra-source-files:
 - README.md

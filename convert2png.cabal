@@ -4,17 +4,17 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: e031744989bcbfb3782fb87fd06052eb01f957f8d91a3a3afa3100d1ba91fadc
+-- hash: a8ae426d532429ce6cdd0b5034dfc915d7f2768f4f887558826adedc80c6447f
 
 name:           convert2png
 version:        0.1.0.0
 description:    Please see the README on GitHub at <https://github.com/githubuser/convert2png#readme>
-homepage:       https://github.com/githubuser/convert2png#readme
-bug-reports:    https://github.com/githubuser/convert2png/issues
-author:         Author name here
+homepage:       https://github.com/meloidae/convert2png#readme
+bug-reports:    https://github.com/meloidae/convert2png/issues
+author:         meloidae
 maintainer:     example@example.com
-copyright:      2021 Author name here
-license:        BSD3
+copyright:      2021 meloidae
+license:        MIT
 license-file:   LICENSE
 build-type:     Simple
 extra-source-files:
@@ -23,7 +23,7 @@ extra-source-files:
 
 source-repository head
   type: git
-  location: https://github.com/githubuser/convert2png
+  location: https://github.com/meloidae/convert2png
 
 library
   exposed-modules:
